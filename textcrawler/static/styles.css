@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.page-links {
+    margin-top: 20px;
+}
+
+.page-links a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: blue;
+}
+
+.page-links a:hover {
+    text-decoration: underline;
+}
+
+.current {
+    margin: 0 5px;
+}
+
